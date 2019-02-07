@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\VKParser.exe.config
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\VKParser.exe
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\VKParser.pdb
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\WebDriver.xml
+C:\Users\Alex\Desktop\VKParser\VKParser\bin\Debug\WebDriver.Support.xml
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.Properties.Resources.resources
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.csproj.CopyComplete
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.exe
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.pdb
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.parserForm.resources
+C:\Users\Alex\Desktop\VKParser\VKParser\obj\Debug\VKParser.outputForm.resources
